@@ -4,7 +4,7 @@ A simple, secure, browser-based key vault that encrypts and stores key-label pai
 
 ## ✨ Features
 
-- 🔑 Store sensitive keys with labels (e.g., "AWS Key", "SSH Key").
+- 🔑 Store sensitive keys with labels (e.g., "AWS Key", "SSH Key", etc).
 - 🔒 AES-encrypted vault using a master password.
 - 🌐 Access restricted to a specific IP address.
 - 🕒 Auto-lock after 5 minutes of inactivity.

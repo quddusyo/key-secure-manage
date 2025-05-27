@@ -1,6 +1,6 @@
 # 🔐 key-secure-manage
 
-A simple, secure, browser-based key vault that encrypts and stores key-label pairs locally using AES encryption. Includes IP-based access control and an auto-lock feature for enhanced security. Implemented select IP addressing to allow select IP adresses to access the key management application.
+A simple, secure, browser-based key vault that encrypts and stores key-label pairs locally using AES encryption. Includes IP-based access control and an auto-lock feature for enhanced security. Implemented select IP addressing to allow select IP addresses to access the key management application.
 
 ## ✨ Features
 
